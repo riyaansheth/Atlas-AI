@@ -4,9 +4,8 @@
 
 ---
 
-## 📁 Project Structure
+##Project Structure
 
-```
 atlas-ai/
 ├── backend/
 │   ├── index.js              # Express server entry point
