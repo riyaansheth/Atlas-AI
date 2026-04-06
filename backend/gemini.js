@@ -64,8 +64,8 @@ PLACEMENT & CAREER:
 - Resume Review Sessions: Every Thursday 2:00 PM (Placement Cell)
 
 IMPORTANT PORTALS & CONTACTS:
-- Student Portal: portal.atlas.edu.in
-- ERP System: erp.atlas.edu.in
+- Student Portal: https://atlasuniversity.edu.in/
+- ERP System: https://www.atlasskilltech.app/erp/
 - LMS (Learning Management): lms.atlas.edu.in
 - Help Desk Email: helpdesk@atlas.edu.in
 - Student Grievance: grievance@atlas.edu.in
