@@ -73,7 +73,7 @@ IMPORTANT PORTALS & CONTACTS:
 - Emergency Contact: +91-22-XXXX-XXXX
 
 FEES & FINANCIAL:
-- B.Tech Annual Fee: ~₹1,80,000 – ₹2,20,000
+- B.Tech Annual Fee: ~₹4,33,000
 - Scholarships Available: Merit-based (top 5% students), Need-based, Sports quota
 - Fee Payment Portal: fees.atlas.edu.in
 - Fee Deadline: Before end of first week of each semester
