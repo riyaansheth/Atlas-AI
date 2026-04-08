@@ -131,8 +131,8 @@ BEHAVIOR GUIDELINES:
 - Keep responses concise but complete — don't pad with unnecessary text.
 - If asked something outside campus scope, politely redirect and offer campus-related help.`;
 
-async function generateResponse(userMessage, currentDay, currentTime) {
-  const contextualMessage = `${userMessage}\n\n[Context: Current Day = ${currentDay}, Current Time = ${currentTime}]`;
+async function generateResponse(userMessage, currentDay, currentTime, studentContext = "") {
+  const contextualMessage = `${userMessage}\n\n[Context: Current Day = ${currentDay}, Current Time = ${currentTime}]\n\n${studentContext}`;
 
   const response = await client.chat.completions.create({
     model: "llama-3.3-70b-versatile",
